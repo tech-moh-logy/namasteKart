@@ -1,6 +1,10 @@
-# namasteKart (Full-Stack CRUD Application)
+<div align="center">
+  <h1>namasteKart (Full-Stack CRUD Application)</h1>
+</div>
 
 [Live Demo](https://jasminesjewelries-mohammed-design.netlify.app)
+
+<br>
 
 Stay tuned! I'm currently putting the finishing touches on some refinements. Coming your way soon; scheduled to be uploaded by March 14th, 2024.
 
